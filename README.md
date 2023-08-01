@@ -1,1 +1,1 @@
-Résolution de conflits
+REMOTE
