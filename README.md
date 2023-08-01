@@ -1,1 +1,1 @@
-# gestion_conflits
+Résolution de conflits
